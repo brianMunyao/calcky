@@ -39,6 +39,8 @@
 }
 .calc-top .expression {
 	font-size: 19px;
+	white-space: pre-wrap;
+	word-break: break-all;
 }
 .calc-top .answer {
 	font-size: 40px;
